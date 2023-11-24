@@ -1,4 +1,3 @@
-# 팀명 : NPE 단속반
 
 # 프로젝트 이름 : happy-pets-day
 
